@@ -1,24 +1,24 @@
 {
-	"id": "plutonium-mine",
-	"title": "Plutonium-mine",
+	"id": "plutoniumextra",
+	"title": "Plutoniumextra",
 	"description": "A <a href=\"https://5e.tools\" target=\"_blank\" rel=\"noopener noreferrer\">5etools</a> integration for Foundry VTT.",
-	"version": "1.0",
+	"version": "1.84.3",
 	"authors": [
 		{
-			"name": "",
-			"url": "",
-			"discord": "",
+			"name": "Giddy",
+			"url": "https://www.patreon.com/Giddy5e",
+			"discord": "giddy_",
 			"flags": {
-				"patreon": "",
-				"github": ""
+				"patreon": "Giddy5e",
+				"github": "TheGiddyLimit"
 			}
 		}
 	],
 	"readme": "README.md",
 	"license": "UNLICENSED",
-	"bugs": "",
-	"changelog": "",
-	"url": "",
+	"bugs": "https://discord.gg/nGvRCDs",
+	"changelog": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/CHANGELOG.md",
+	"url": "https://www.patreon.com/Giddy5e",
 	"manifest": "https://github.com/gregoryn22/plutonium-next/edit/master/module-foundry12.json",
 	"download": "https://github.com/gregoryn22/plutonium-next/edit/master/plutonium-foundry12.zip",
 	"compatibility": {
@@ -59,7 +59,7 @@
 				"compatibility": {
 					"minimum": "3.1.0",
 					"verified": "3.3.1",
-					"maximum": "4.0.4"
+					"maximum": "9.9.9"
 				}
 			}
 		],
@@ -87,6 +87,6 @@
 		}
 	},
 	"flags": {
-		"attributions": ""
+		"attributions": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/ATTRIBUTIONS.md"
 	}
 }
