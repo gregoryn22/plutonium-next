@@ -1,21 +1,26 @@
 {
-	"id": "plutonium-mine",
-	"title": "Plutonium-mine",
+	"id": "plutonium",
+	"title": "Plutonium",
 	"description": "A <a href=\"https://5e.tools\" target=\"_blank\" rel=\"noopener noreferrer\">5etools</a> integration for Foundry VTT.",
 	"version": "1.0",
 	"authors": [
 		{
-t"
+			"name": "",
+			"url": "",
+			"discord": "",
+			"flags": {
+				"patreon": "",
+				"github": ""
 			}
 		}
 	],
 	"readme": "README.md",
 	"license": "UNLICENSED",
-	"bugs": "https://discord.gg/nGvRCDs",
-	"changelog": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/CHANGELOG.md",
-	"url": "https://www.patreon.com/Giddy5e",
-	"manifest": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/module-foundry12.json",
-	"download": "https://github.com/TheGiddyLimit/plutonium-next/raw/master/plutonium-foundry12.zip",
+	"bugs": "",
+	"changelog": "",
+	"url": "",
+	"manifest": "https://github.com/gregoryn22/plutonium-next/edit/master/module-foundry12.json",
+	"download": "https://github.com/gregoryn22/plutonium-next/edit/master/plutonium-foundry12.zip",
 	"compatibility": {
 		"minimum": "12",
 		"verified": "12.331",
@@ -82,6 +87,6 @@ t"
 		}
 	},
 	"flags": {
-		"attributions": "https://raw.githubusercontent.com/TheGiddyLimit/plutonium-next/master/ATTRIBUTIONS.md"
+		"attributions": ""
 	}
 }
