@@ -1,6 +1,6 @@
 {
-	"id": "plutonium",
-	"title": "Plutonium",
+	"id": "plutonium-mine",
+	"title": "Plutonium-mine",
 	"description": "A <a href=\"https://5e.tools\" target=\"_blank\" rel=\"noopener noreferrer\">5etools</a> integration for Foundry VTT.",
 	"version": "1.0",
 	"authors": [
